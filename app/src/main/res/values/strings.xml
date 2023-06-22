@@ -1,0 +1,411 @@
+<resources>
+    <string name="app_name">MX-5 Miata Buyers Guide</string>
+    <string name="banner_ad_unit_idTEST">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_idPROD">ca-app-pub-1793856388987151/6898136373</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1793856388987151/6898136373</string>
+    <string name="title_category_detail">Category Detail</string>
+
+    <string-array name="Categories" >
+        <item>__INTRODUCTION</item>
+        <item>BUYERS_GUIDE_CATEGORIES_XXX</item>
+        <item>_>_Brakes</item>
+        <item>_>_Engine_Bay</item>
+        <item>_>_Exterior_and_Body</item>
+        <item>_>_Interior</item>
+        <item>_>_Suspension</item>
+        <item>_>_Transmission_and_Diff</item>
+        <item>_>_Underbody</item>
+        <item>_>_Wheels</item>
+        <item>ADDITIONAL_INFO_XXX</item>
+        <item>_>_General_Advice</item>
+        <item>_>_MX5_Miata_Models</item>
+        <item>_>_Suggested_Links</item>
+        <item>_>_Technical_Specs</item>
+        <item>_>_Video_Guides</item>
+        <item>_>_But_I_want_more_YYY</item>
+        <item>ABOUT</item>
+    </string-array>
+
+    <string name="TEMPLATE">
+    &lt;b>example&lt;/b>&lt;br>
+    Word words words.
+    &lt;font color="red">Red&lt;/font>, &lt;font color="#FFA500">Orange&lt;/font>
+    </string>
+
+    <string name="__INTRODUCTION">
+    &lt;b>Introduction&lt;/b>&lt;br>
+    The wolds best selling Roadster was first released in 1989, some 30 years ago. A vehicle developed by the engineers at Mazda to be a pure drivers car, with their mantra of \'horse and rider as one\'. The MX-5 Miata offers an amazing driving experience with near perfect weight distribution and fantastic suspension geometry resulting amazing handling balance. Loved as an everyday car, weekender or track day racer, the MX-5 offers a cost effective answer to any drivers desire. With four generations of MX-5 now having been released, the earlier years are offering both an inexpensive option into top down driving, while also an attractive option for the collector.&lt;br>
+    &lt;br>
+    The Mazda MX-5 Miata are a generally reliable and sturdy little car. The engines are bullet proof if well maintained and there is little that can go wrong provided regular maintenance is performed. However no car is perfect and some considerations should be kept in mind when seeking an MX-5 Miata of your own. As such, this app offers a list of some generic vehicle purchasing tips, along with an extensive collection of MX-5 specific problems that any potential buyer should keep in mind.&lt;br>
+    &lt;br>
+    Welcome to the Mazda MX-5 Miata Buyer’s Guide by BEAVIS Motorsport - our solution to helping you find the right MX-5 Miata for you!&lt;br>
+    &lt;br>
+        &lt;a herf="http://www.beavismotorsport.com">&lt;img src="logo">&lt;/a>
+    </string>
+
+    <string name="___Exterior_and_Body">
+        &lt;b>Corrosion&lt;/b>&lt;br>
+    One of the main points of rust is around the lower area of the windscreen frame.&lt;br>
+    In areas where the roads are salted for winter, rust is common in areas such as the rear sill sections, rear wheel arches and front chassis rails near front subframe mounting.&lt;br>
+    Inspect these areas closely for any signs of rust, paint blistering, or previous rust repair attempts.&lt;br>
+    The front chassis rails are susceptible to trapping moisture or condensation between the layers of steel, eventually causing rust. This is best inspected in the area around the underside of the rail near where the radiator mounting bracket attaches.&lt;br>
+    &lt;br>
+
+        &lt;b>Wet Trunk/Boot&lt;/b>&lt;br>
+    A wet boot is often caused by a perished trunk seal or damaged rain rail which is the plastic channel that sandwiches the lower edge of the hood and guides water to the drain holes. Replacements are readily available from your MX-5 parts specialists or online. Replacement takes about an hour.&lt;br>
+    &lt;br>
+
+        &lt;b>Water in the rear parcel&lt;/b>&lt;br>
+    The interior drain holes can become blocked, trapping water inside the sills and rear parcel area. A few minutes spent clearing the drains with a wire coat hanger should fix it.&lt;br>
+    Left untreated however, these can result in excess water being held in the body of the car and cause significant corrosion damage over time.&lt;br>
+    &lt;br>
+
+        &lt;b>Wing mirror bolts&lt;/b>&lt;br>
+    The door mirror bolt can corrode and even snap. This is easily fixed by dismantling and replacing the bolt/nut that fixes the mirror to the door.&lt;br>
+    &lt;br>
+
+        &lt;b>Crash Damage&lt;/b>&lt;br>
+    While not MX-5/Miata specific, be sure to always check the bumper plastics, frame rails and rear most and front most metal areas in the boot and engine bay for any signs of damage.&lt;br>
+    &lt;br>
+
+        &lt;b>Soft Top&lt;/b>&lt;br>
+    Be sure to put the roof up and down and check it all works, the soft top latches can wear, or may need adjusting, the roof particularly on the early cars is likely to have a few knicks or holes. And if it has a plastic rear window, they go cloudy with time.&lt;br>
+    The early year MX-5 soft tops originally came with a plastic window which can become brittle and cloudy with age of which replacements are quite costly.&lt;br>
+    The roof latches can wear and loosen over time resulting the soft-top not latching closed properly. The latches have some adjustment in them, however if they are not locking closed properly or not remaining closed, they may need repair or replacement.&lt;br>
+    &lt;br>
+
+        &lt;b>Battery&lt;/b>&lt;br>
+    Check the battery (located in the trunk/boot), as it needs to be an absorbed glass mat battery and not your typical lead acid. The area around the battery can end up rusty if not carefully looked after or if the wrong battery is used.&lt;br>
+    &lt;br>
+
+         &lt;b>Boot/Trunk&lt;/b>&lt;br>
+    Inspect the lights mounted in the boot/trunk as they are a common failure point. It can be a simple case of a blown globe, or fractured and work hardened wiring which typically cracks around the hinge point.&lt;br>
+    In the case of the NA/Mk1, this is just relevant to the third brake light. However for the NB/Mk2, the rear vanity plate lights should also be inspected.&lt;br>
+    &lt;br>
+
+    </string>
+
+    <string name="___Interior">
+        &lt;b>Electric Windows&lt;/b>&lt;br>
+    As the cars age, the electric windows become slow and stick over time, if they still go up and down fully then likely the runners just need some lubrication with a silicone spray or white lithium grease. Alternatively, the window electric switches may need cleaning.&lt;br>
+    &lt;br>
+
+          &lt;b>Windows Clunky&lt;/b>&lt;br>
+    On older cars the electric windows can sometimes become ‘clunky’ and rattle, this is due to the window guide bushes failing, sometimes to the point where they are non existent.&lt;br>
+    &lt;br>
+
+          &lt;b>Seats&lt;/b>&lt;br>
+    Tears are common on the early cars as the cloth has become brittle, similarly the leather seats can crack. On the later cars, the bolster areas of the seats can begin to show wear marks.&lt;br>
+    &lt;br>
+
+          &lt;b>Door Trims&lt;/b>&lt;br>
+    The door trim on NA’s are well known for wearing out the vinyl material in the trim or the MDF panel underneath the trim can suffer. It is now pretty common to see custom trims out there and some pretty impressive aftermarket options available.&lt;br>
+    &lt;br>
+          &lt;b>Shifter Boots&lt;/b>&lt;br>
+    While hidden under the centre console, the shifter turret boots are a wear item that may very well be worn and require replacement. A worn boot will present symptoms of a noisy trans tunnel and excess heat.&lt;br>
+    &lt;br>
+
+    </string>
+
+    <string name="___Engine_Bay">
+        &lt;b>Short Nose 1.6&lt;/b>&lt;br>
+        Some of the very early 1.6 MX-5s came with and engine commonly referred to as a \'short nose crank\'. These can often fail as a result of the front pulley locating keyway in the crank nose wearing and causing poor timing or complete failure, neither of which can be repaired.&lt;br>
+        To identify if the car has a short nose crank, count the number of slots on the front of the pulley. Four slots indicate a short nose crank. With the engine running inspect the crank pulley for wobbles as an imbalance is generally only resolved with engine replacement. Whereas eight slots on the crank pulley would indicate a long nose crank. These are unaffected.&lt;br>
+    &lt;br>
+
+        &lt;b>Oil Level&lt;/b>&lt;br>
+    Be sure to check the engine oil level. While a black coloured oil is fine, the biggest MX-5 killer is low oil level.&lt;br>
+    &lt;br>
+
+        &lt;b>Oil Leaks&lt;/b>&lt;br>
+    Oil leaks are common as the cars age from a number of areas.&lt;br>
+    The o-ring on the CAS sensor on the back on the cylinder head can perish and start to leak (NA/Mk1 only). If oil from the top/back of the head is not treated it can also prematurely age the heater hoses.&lt;br>
+    Similarly, the Cam Cover gasket can start to weep oil, particularly if the cam cover has been removed and the gasket has been reused. Leaky rear main seals are identified by a slipping clutch or oil from the trans weep hole.&lt;br>
+    &lt;br>
+
+        &lt;b>Smoke&lt;/b>&lt;br>
+    Smoke from the exhaust is often a sign of an unhealthy engine. Blue smoke is usually a result of  burning oil commonly due to worn valve stem seals or piston rings. Blue smoke during acceleration may require a bottom end rebuild while under deceleration is commonly the valve stem seals.&lt;br>
+    Similarly, white smoke is a sign of water in the cylinders which, if excessive, is typically leaking in due to a blown head gasket. While a small amount of white smoke on start or in cold weather is normal, smoke doesn’t clear up should be a concern.&lt;br>
+    &lt;br>
+
+        &lt;b>Noisey Lifters&lt;/b>&lt;br>
+    There is often noticeable tappet noise when starting up. While this is perfectly normal for the first few moments after startup it is something that should be investigated further if it persists. A good oil change is often all that\'s needed, although it could indicate worn or damaged lifters.&lt;br>
+    For the NB/Mk2, their solid lifters should not present a significant ticking noise and if so may require shim adjustment.&lt;br>
+    &lt;br>
+
+        &lt;b>Belt/Bearing whines&lt;/b>&lt;br>
+    If you hear a whining noise from the front of the motor it can often indicate a bad water pump pulley bearing or an overtightened timing belt.&lt;br>
+    &lt;br>
+
+        &lt;b>Misfire&lt;/b>&lt;br>
+    The two main causes of misfires are aged or worn ignition leads or possibly the coil packs. If the car hesitates under power or idles poorly, factor in replacing your ignition components. The early 1.6’s have the weakest coil packs of all the MX-5’s.&lt;br>
+    &lt;br>
+
+        &lt;b>Crankshaft Pulley&lt;/b>&lt;br>
+    Keep an eye out for a ‘short nose’ crank pulley as these are known to fail prematurely. Also be aware of wear with the crank pulley key and keyway. Be sure to check that pulley doesn\'t wobble when the engine is running.&lt;br>
+    &lt;br>
+
+        &lt;b>Radiator&lt;/b>&lt;br>
+    If the radiator top plastic tank is brown in colour or showing cracks, it’s due for replacement. Left alone they may fail at any moment. eBay alloy replacements are a good option.&lt;br>
+    &lt;br>
+
+        &lt;b>Radiator Hoses&lt;/b>&lt;br>
+    Go hard and should be replaced, cost is only around $100 bux plus an hour or two to replace them.&lt;br>
+    &lt;br>
+
+        &lt;b>Temperature&lt;/b>&lt;br>
+    After your test drive, check the engine and cooling system and verify it doesn\’t seem too hot and there\'s nothing unusual like fluid boiling in the overflow or any surprise oil or coolant leaks.&lt;br>
+    &lt;br>
+
+        &lt;b>Timing Belt&lt;/b>&lt;br>
+    I don’t know of a belt ever failing, it\'s worth checking with the seller on the age of the belt or if they have proof of when it was changed.&lt;br>
+    &lt;br>
+
+        &lt;b>Engine Mounts&lt;/b>&lt;br>
+        The engine mounts can become soft or fail completely without any cause or obvious symptoms. It can allow the entire driveline to move more freely and result in difficult gear changes.&lt;br>
+        If the motor moves excessively or the shifter handle rocks about when getting on and off the throttle, consider the need to replace the engine mounts.&lt;br>
+    &lt;br>
+
+        &lt;b>Fluid Reservoirs&lt;/b>&lt;br>
+    Of course, be sure to check the levels and condition of the fluids in the Brake and clutch reservoirs and the radiator.&lt;br>
+    &lt;br>
+    </string>
+
+    <string name="___Underbody">
+    &lt;b>Frame Rails&lt;/b>&lt;br>
+    The two main frame rails under the car can be pretty beat up, particularly on a lowered vehicle, or where a previous owner positioned a jack incorrectly. There are cases of people struggling to get their car registered/approved for road use by their local authorities or mechanics due to damaged frame rails.&lt;br>
+    Examine the rails under the car, they should be flat and \'square\'. While some damage is usually acceptable, rails that are particularly damaged may need to be replaced which can be a costly affair.&lt;br>
+    &lt;br>
+    &lt;b>Bracing&lt;/b>&lt;br>
+    As the years progressed, Mazda developed bracing under the MX-5 including braces at the front subframe, rear subframe and mid underbody. These ranged from simple tubular bars on the earlier cars to stamped steel plates on the later years.&lt;br>
+    While it can not be definitively confirmed whether these were added for stiffening of the chassis, or to work as colission/crumple force distribution in the event of an accident.&lt;br>
+    &lt;br>
+
+    </string>
+
+    <string name="___Wheels">
+    &lt;b>Wheels and Tyres&lt;/b>&lt;br>
+    Mazda delivered the MX-5 with a variety of wheels over the years depending on model, year, locality and options/performance pacakges. While in general wheels are one of the first customisations a person may make to a car and as such preference is very subjective, you should still consider their condition when purchasing a vehicle.&lt;br>
+    Most MX-5\'s respond best with a 15 or 16 inch wheel, if you are looking at a car with an ungodly large diameter wheel, you may find the handling characteristics unusual and unpleasent. Also keep in mind that poor quality or heavy aftermarket wheels may be detrimental to handling and safety.&lt;br>
+    &lt;br>
+    &lt;b>Tyres&lt;/b>&lt;br>
+    Inspect the wheel and tyre for condition, ensure the tyre has sufficient tread depth and is not showing signs of age such as cracking or crazing. Also consider signs of unusual wear as that may be caused by a poor wheel alignment, or something worse, such as damage to suspension, bushes or the undercarriage.&lt;br>
+    A quality tyre is often sign of a person who cares for their car and for it\'s performance, while a cheap budget range tyre may be indicative of an owner who is more neglectful.&lt;br>
+    Observe the tyre age, as tyres are stamped with manufacture dates, and tyre brand. Consider mismatched tyres as a concern as the MX-5 may not respond well to mismatched tyres, particularly when on the same axle.&lt;br>
+    &lt;br>
+    </string>
+
+    <string name="___Suspension">
+     &lt;b>Steering&lt;/b>&lt;br>
+    Steering feel in the MX-5/Miata is believed to be some of the best of any car, however keep an eye out for corroded power steering pipes around the steering rack.&lt;br>
+    &lt;br>
+        &lt;b>Ball Joints&lt;/b>&lt;br>
+    The front knuckle ball joint boots can perish and crack with age, replacements are easily available and usually simple enough for a capable mechanic to install.&lt;br>
+    &lt;br>
+        &lt;b>Suspension&lt;/b>&lt;br>
+    Overall, the MX-5 Miatas suspension is generally pretty sturdy, but check for any obvious bushing failures or leaky shocks.&lt;br>
+    &lt;br>
+
+    </string>
+
+    <string name="___Transmission_and_Diff">
+    &lt;b>Warm Transmission Tunnel&lt;/b>&lt;br>
+    This can get quite noticeable and can sometimes be remedied by changing the rubber turret boot that sits under the centre console. Over time these can perish and allow heat from the drivetrain into the cabin. Simple and cheap to fix.&lt;br>
+    &lt;br>
+        &lt;b>Clutch Slave Cylinder&lt;/b>&lt;br>
+    The slave cylinder can sometimes fail and will leak or allow the clutch pedal will sink to the floor without proper clutch disengagement. A replacement unit can be had for around £30/$40 and can be fitted in around an hour. &lt;br>
+    &lt;br>
+        &lt;b>Clutch&lt;/b>&lt;br>
+    Spigot and clutch-release bearings can develop a whines or grinding noises while clutch is engage, replacement isn’t hard except for the fact the whole gearbox needs to be removed.&lt;br>
+    &lt;br>
+        &lt;b>Loose or Disappointing Shift Feel&lt;/b>&lt;br>
+    The MX-5/Miata shifter is considered to offer one of the best shift feels out there. However there are a collection of bushes within the shifter turret that can perish over time. Thankfully they are inexpensive and easy to replace.&lt;br>
+    &lt;br>
+        &lt;b>Differential Seal&lt;/b>&lt;br>
+    The differential seals can start to leak if aged or damaged, and replacement isn’t too painful. While not super common, it\'s something to be aware of.&lt;br>
+    &lt;br>
+    </string>
+
+    <string name="___Brakes">
+    &lt;b>Brakes&lt;/b>&lt;br>
+    All years of MX-5\'s brakes are capable and generally don’t present many issues, provided they are maintained and the pads/rotors are replaced when necessary.&lt;br>
+    &lt;br>
+        &lt;b>Calipers&lt;/b>&lt;br>
+    Brake callipers are known to seize up without proper maintenance. Re-conditioned parts are readily available, as are rebuild kits. The rear calipers include the handbrake linkage which should be inspected and cleaned periodically to ensure they operate correctly.&lt;br>
+    &lt;br>
+        &lt;b>Handbrake&lt;/b>&lt;br>
+    Test that the handbrake operates as expected and the handle does not have excessive lift. If the handle lifts without stopping the vehicle it may be out of adjustment or a rear caliper may need reconditioning.&lt;br>
+    &lt;br>
+    &lt;b>Upgrade Options&lt;/b>&lt;br>
+    From 1989 to 2005, the bake system components can be interchanged between years, meaning components from the later vehicles can be swapped onto the earlier ones. A great, cheap upgrade option.&lt;br>
+    &lt;br>
+    </string>
+
+
+    <string name="___General_Advice">
+        &lt;b>Cheap and Reliable&lt;/b>&lt;br>
+    Overall, the Mazda MX-5 Miata is an easy to maintain vehicle, very simple to work on yourself, and at the end of the day is very rewarding to drive.&lt;br>
+    &lt;br>
+        &lt;b>Seller of vehicle&lt;/b>&lt;br>
+    Get a judgment of the vehicle owners character. Do they struggle to answer your questions? Do they seem untrustworthy or are you getting a bad vibe? If so, don\'t hesitate to walk away if you don\’t know what you\'re getting into.&lt;br>
+    &lt;br>
+        &lt;b>Final Purchase&lt;/b>&lt;br>
+    If you do end up buying the car, be sure to remind the seller to give you ALL sets of keys they have for the car, it\'s very common to just give up the key they use every day, but accidentally forget to hand over all the spare keys they have for a car.&lt;br>
+    &lt;br>
+    </string>
+
+
+    <string name="___MX5_Miata_Models">
+        &lt;big>&lt;b>1st Generation - NA&lt;/b>&lt;/big>&lt;br>
+        &lt;img src="na">&lt;br>
+        &lt;br>
+        &lt;b>NA6 1.6L 1989-1993&lt;/b>&lt;br>
+        The original MX-5 Miata launched in February 1989 and went on sale a few months later. It was an instant hit which spurred on a raft of competitors who attempted to replicate the success of an cost effective lightweight sports car. And at a little under 1000kg, the NA truly deserved its "lightweight sports car" title. With a 1.6litre four cylinder engine and 5 speed gearbox, the offering as a drivers car was almost unrivaled.&lt;br>
+        &lt;br>
+        &lt;b>NA8 1.8L 1994-1997&lt;/b>&lt;br>
+        Mazda revised the NA for 1995 with the release of the NA8. It came with a collection of changes, most significant of which was the engine which received an increase in capacity to 1.8 litres. The brakes and differential were also increased in size, and unfortunately kerp weight rose slightly also. Externally the cars were nearly identical to their 1.6 litre siblings.&lt;br>
+        &lt;br>
+
+        &lt;big>&lt;b>2nd Generation - NB&lt;/b>&lt;/big>&lt;br>
+        &lt;img src="nb">&lt;br>
+        &lt;br>
+        &lt;b>NB 1.8L 1999-2000&lt;/b>&lt;br>
+        In 1998, the second generation MX-5 Miata went on sale following it\'s debut at Tokyo Motor Show in the previous year. The NB saw a number of limited editions, including the 1999 10 anniversary edition which featured a number of upgrades including changes to suspension and a 6speed gearbox. It was during the course of the NB\'s sales that the MX-5 would be recognized as the world\'s best-selling convertible two-seater sports car by the Guinness World Records.&lt;br>
+        &lt;br>
+        &lt;b>NB FL 1.8L VVT 2001-2005&lt;/b>&lt;br>
+        Toward the end or 2000, Mazda revised the NB with new headlights, tailiights, a 6speed gearbox as standard, and VVT on the intake cam. This new NB Face-Lift offered more modern styling and arguably the most spritely MX-5 Miata to date. Also available were a number of exclusive releases including a high-performance turbocharged model and a coupe version exclusive in Japan.&lt;br>
+        &lt;br>
+
+        &lt;big>&lt;b>3rd Generation - NC&lt;/b>&lt;/big>&lt;br>
+
+        &lt;img src="nc">&lt;br>
+        &lt;br>
+        &lt;b>NC 2.0L 2005-2008&lt;/b>&lt;br>
+        The Geneva International Motor Show in 2005 saw the launch of the third generation MX-5 Miata. The all new NC featured a 2.0 litre engine for the first time while a 1.8 litre engine was also offered in some markets. The NC was complete redesign and had more in common with the RX-8 than the old MX-5 Miata. A year later, a retractable hardtop model was added to the lineup. It was designed to make the pleasures of open-top driving accessible to a wider audience and was a hit with fans around the world.&lt;br>
+        &lt;b>NC2 FL 2.0L 2008-2013&lt;/b>&lt;br>
+        The first facelift for the NC was unveiled in 2008 with a major restyle to incorporate elements from Mazda\'s newer models like the larger grille and new head and fog lights along with numerous other minor tweaks. However it wasn\'t just the visuals that changed, the engine was re-tuned to offer more power and an increased rev limit.&lt;br>
+        &lt;b>NC3 FL 2.0L 2013-2015&lt;/b>&lt;br>
+        A second facelift came for the NC in 2013 with again some changes to external styling, albeit only small in contrast to the changes seen with the first facelift. There were no drivetrain changes with this facelift, however there were a collection of limited edition and concept cars built from the NC chassis for shows such as SEMA, and an anniversary edition released in 2014 shortly before production of the third gen car concluded.&lt;br>
+        &lt;br>
+
+        &lt;big>&lt;b>4th Generation - ND&lt;/b>&lt;/big>&lt;br>
+        &lt;img src="nd">&lt;br>
+        &lt;br>
+        &lt;b>ND 1.5/2.0L 2015-present&lt;/b>&lt;br>
+        The latest fourth generation MX-5 Miata was met with immediate positive response thanks to its return to form lightweight sporty design and modernised styling. Unveiled late 2014, the ND MX-5 Miata was the millionth MX-5 to roll off the production line.&lt;br>
+        &lt;br>
+        &lt;b>ND RF 2.0L 2017-present&lt;/b>&lt;br>
+        For 2017, Mazda added a hardtop version of the ND to the fleet with the introduction of their new RF (Retractable Fastback) model. While an increase in kerb weight was unavoidable, the ND RF is still very much an MX-5 Miata, however now with the security and class of a hardtop roof, but the felxibility to still experience the open air feel of a soft top.&lt;br>
+
+    &lt;br>
+    </string>
+
+    <string name="___Suggested_Links">
+
+        &lt;b>Forums&lt;/b>&lt;br>
+        &lt;a href="https://forum.miata.net/">forum.miata.net&lt;/a>&lt;br>
+        &lt;a href="http://mx5cartalk.com/forum/">mx5cartalk.com/forum&lt;/a>&lt;br>
+        &lt;a href="http://www.mx5forum.co.nz/">mx5forum.co.nz&lt;/a>&lt;br>
+        &lt;a href="https://www.mx5life.com/forum/">mx5life.com/forum&lt;/a>&lt;br>
+        &lt;a href="https://www.mx5world.com/phorum/">mx5world.com/phorum&lt;/a>&lt;br>
+        &lt;a href="https://www.clubroadster.net">clubroadster.net&lt;/a>&lt;br>
+        &lt;a href="https://www.miataturbo.net">miataturbo.net&lt;/a>&lt;br>
+        &lt;a href="http://www.mx5nutz.com/forum">mx5nutz.com/forum&lt;/a>&lt;br>
+        &lt;a href="http://www.mazdamx5.org/">mazdamx5.org&lt;/a>&lt;br>
+        &lt;a href="https://www.v8miata.net/">v8miata.net&lt;/a>&lt;br>
+        &lt;br>
+
+        &lt;b>Guides and Technical Info&lt;/b>&lt;br>
+        &lt;a href="https://beavismotorsport.com/guides-tech/">beavismotorsport.com/guides-tech&lt;/a>&lt;br>
+        &lt;a href="https://www.flyinmiata.com/tech/index.php">flyinmiata.com/tech&lt;/a>&lt;br>
+        &lt;a href="https://www.miata.net/garage/">miata.net/garage&lt;/a>&lt;br>
+        &lt;a href="https://www.miata.net/faq/">miata.net/faq&lt;/a>&lt;br>
+        &lt;a href="http://mazdaepc.com/parts/MX-5/">mazdaepc.com/parts/MX-5&lt;/a>&lt;br>
+        &lt;br>
+
+        &lt;b>Parts and Tuning Vendors&lt;/b>&lt;br>
+        &lt;a href="https://beavismotorsport.com">beavismotorsport.com&lt;/a>&lt;br>
+        &lt;a href="https://www.flyinmiata.com">flyinmiata.com&lt;/a>&lt;br>
+        &lt;a href="https://www.gomiata.com">gomiata.com&lt;/a>&lt;br>
+        &lt;a href="https://supermiata.com">supermiata.com&lt;/a>&lt;br>
+        &lt;a href="http://www.trackspeedengineering.com">trackspeedengineering.com&lt;/a>&lt;br>
+        &lt;a href="https://www.ilmotorsport.de">ilmotorsport.de&lt;/a>&lt;br>
+        &lt;a href="https://www.good-win-racing.com">good-win-racing.com&lt;/a>&lt;br>
+        &lt;a href="https://www.jimellismazdaparts.com">jimellismazdaparts.com&lt;/a>&lt;br>
+        &lt;a href="https://mikesmiataparts.com">mikesmiataparts.com&lt;/a>&lt;br>
+        &lt;a href="http://miataroadster.com">miataroadster.com&lt;/a>&lt;br>
+        &lt;a href="https://www.mx5parts.co.uk">mx5parts.co.uk&lt;/a>&lt;br>
+        &lt;a href="https://rev9autosport.com">rev9autosport.com&lt;/a>&lt;br>
+        &lt;br>
+        Want to have your link featured here? Contact us by &lt;a href="mailto:info@beavismotorsport.com?Subject=MX5 Miata App">clicking here!&lt;/a>&lt;br>
+    </string>
+
+
+    <string name="___Technical_Specs">
+
+        &lt;b>TBC&lt;/b>&lt;br>
+        Coming soon...&lt;br>
+    &lt;br>
+    </string>
+
+    <string name="___Video_Guides">
+
+
+        &lt;a href="https://www.youtube.com/watch?v=cau3GrpYthc">MAKE YOUR MX-5 MIATA FASTER&lt;br>&lt;img src="va">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=D8Phu09cg1I">Change the trunk/boot light bulb - ND&lt;br>&lt;img src="vb">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=tY6QMNZK6aM">Change the licence plate light bulb - ND&lt;br>&lt;img src="vc">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=uI9Ej-HgNwM">Change the shocks/springs or coilovers - ND&lt;br>&lt;img src="vd">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=x6lqpYNHb-U">Install a shorty / stubby antenna - ND&lt;br>&lt;img src="ve">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=5rZBpfPkBOw">Reset service reminder - ND MX-5 Miata&lt;br>&lt;img src="vf">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=OsO6Roa8T58">COMPLETE GUIDE TO OILS&lt;br>&lt;img src="vg">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=283eCaQuHeo">HOW TO CHANGE YOUR OIL - ND&lt;br>&lt;img src="vh">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=6JZNwthNZ1k">HOW TO ADJUST YOUR THROTTLE CABLE&lt;br>&lt;img src="vi">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=c_bnu3u5JJ0">COMPLETE GUIDE TO BRAKES&lt;br>&lt;img src="vj">&lt;/a>&lt;br>
+        &lt;br>
+        &lt;a href="https://www.youtube.com/watch?v=qwLz7ney22w">ULTIMATE DIFFERENTIAL GUIDE FOR NA/NB&lt;br>&lt;img src="vk">&lt;/a>&lt;br>
+</string>
+    <string name="___But_I_want_more_YYY">
+
+        &lt;b>I bet you do!&lt;/b>&lt;br>
+        But sometimes you have to learn to be patient.&lt;br>
+    &lt;br>
+    </string>
+
+
+
+    <string name="ABOUT">
+        &lt;b>About the Creator&lt;/b>&lt;br>
+    Creator and author Brendan Beavis\' desire for a cheap and reliable track car was solved with the help of the worlds best selling sports car. A Mazda MX-5. Some 10 years and 10 different MX-5\'s later, Brendan\'s passion spreads from a YouTube channel dedicated to the little roadster to an online parts store helping other MX-5 owners look after their own cars.&lt;br>
+    &lt;br>
+    &lt;a href="https://www.youtube.com/bbeavis">Click here to visit the BEAVIS Motorsport YouTube Channel&lt;/a>&lt;br>
+    &lt;br>
+    &lt;a href="https://beavismotorsport.com.au">Click here to visit the BEAVIS Motorsport Online Store&lt;/a>&lt;br>
+    &lt;br>
+
+    &lt;b>Created by Smashed Potato 2018&lt;/b>&lt;br>
+    &lt;a href="https://play.google.com/store/apps/developer?id=Smashed%20Potato">Click Here to visit Smashed Potato on Google Play&lt;/a>&lt;br>
+    &lt;br>
+    &lt;b>PRIVACY POLICY&lt;/b>&lt;br>
+    &lt;a href="http://bbeavis.com/android_privacy_policy.html">Click here to view our privacy policy&lt;/a>&lt;br>
+    &lt;br>
+    Thanks for your support! :-)
+    &lt;br>&lt;br>
+
+
+
+
+
+
+
+</string>
+
+ </resources>

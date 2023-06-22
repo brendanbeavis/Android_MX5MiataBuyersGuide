@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/category_list"
+    android:name="com.smashedpotato.miatabuyersguide.CategoryListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:scaleType="centerCrop"
+    app:layoutManager="LinearLayoutManager"
+    tools:context="com.smashedpotato.miatabuyersguide.CategoryListActivity"
+    tools:listitem="@layout/category_list_content" />

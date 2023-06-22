@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121720</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorBG">#121212</color>
+    <color name="textDefault">#ffffff</color>
+    <color name="colorAccent">#00ff00</color>
+
+    <color name="transparent">#00000000</color>
+   <!--BEAVIS COLOR 121720-->
+</resources>
