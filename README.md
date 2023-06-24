@@ -1,29 +1,11 @@
-TODO
-
-# H1
-## H2
-
+# Miata Buyers Guide for Android
 
 ## Description
 
+A written and visual guide for those consideruing purchasing a Mazda MX-5 Miata in Android App format.
 
 ### Features
 
-* item
-* item
-
-## Configuration
-
-1. item
-2. item
-
-
-> Note
-
-## Documentation
-
-
-## Support 
-
-
-## Other
+- category based menu
+- visual and writen guide
+- lightweight html text configuration based content
